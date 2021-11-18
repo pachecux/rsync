@@ -1,3 +1,6 @@
+EXemplos de RSYNC
+
+
 RSync para o mesmo host e diretórios diferentes.
 
 rsync -lrpPta --stats <path-origem> <path-destino>
